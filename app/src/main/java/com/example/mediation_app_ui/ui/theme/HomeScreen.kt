@@ -48,6 +48,7 @@ import com.example.mediation_app_ui.R
 import com.example.mediation_app_ui.standardQuadFromTo
 
 @Composable
+// IN this project there are some hardcoded value that are just done by hit and trail
 fun HomeScreen()
 {
 
