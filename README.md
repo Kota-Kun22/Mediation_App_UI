@@ -6,7 +6,8 @@ Modular & Efficient Mediation App UI in ***Jetpack Compose (Kotlin)***
 
 
 
-![mediationui-ezgif com-video-to-gif-converter](https://github.com/Kota-Kun22/Mediation_App_UI/assets/68362699/3644a683-d2c6-4690-b1f7-1f8e87b11faf)
+[![mediationui-ezgif com-video-to-gif-converter](https://github.com/Kota-Kun22/Mediation_App_UI/assets/68362699/3644a683-d2c6-4690-b1f7-1f8e87b11faf)](https://github.com/Kota-Kun22/Mediation_App_UI/assets/68362699/95319b0a-52b5-49fa-a22c-4419122f07f6
+)
 
 
 
